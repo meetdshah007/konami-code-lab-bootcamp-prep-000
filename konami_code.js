@@ -28,4 +28,4 @@ function init() {
   };
   document.body.addEventListener('keydown', keyDownHandler);
 }
-init();
+// init();
